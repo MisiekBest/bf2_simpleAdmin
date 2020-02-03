@@ -5,19 +5,6 @@ Simple Admin Script is a Battlefield 2 python script made for few things:
  - Change map directly from ingame chat                              
 
 
-
- What it is?: 
-
- Simple Admin Script is a Battlefield 2                              
- python script made for few things:                                  
- - Restart round from chat without BF2CC Daemon                      
- - Pause game from chat, unpause from console (also no BF2CC needed) 
- - Chatting from console during pause                                
- - Change map directly from ingame chat                              
-
-
-
-
  How to install: 
 
  1. Go to mods/bf2/python/game/ direcory located on your server 
