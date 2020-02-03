@@ -1,0 +1,2 @@
+import simpleAdmin
+simpleAdmin.init()
